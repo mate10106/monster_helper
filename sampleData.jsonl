@@ -1,0 +1,15 @@
+{ "name": "Chefzilla", "description": "Expert in fiery cuisine.", "age": 120, "image": "chefzilla.png", "skill": "Cooking delicious meals with a touch of flame." }
+{ "name": "DustBeast", "description": "Cleans everything in a flash!", "age": 85, "image": "dustbeast.png", "skill": "Efficiently cleans and tidies up any space." }
+{ "name": "StackMuncher", "description": "Organizes with precision.", "age": 75, "image": "stackmuncher.png", "skill": "Expert in stacking and organizing items neatly." }
+{ "name": "Huggo", "description": "Provides endless hugs and comfort.", "age": 50, "image": "huggo.png", "skill": "Giving warm, comforting hugs to everyone." }
+{ "name": "Leafen", "description": "Brings life to every garden.", "age": 95, "image": "leafen.png", "skill": "Growing and maintaining lush gardens." }
+{ "name": "Fixnix", "description": "Fixes anything with a smile.", "age": 40, "image": "fixnix.png", "skill": "Repairing broken items and machines." }
+{ "name": "Knowblin", "description": "Shares knowledge with all.", "age": 200, "image": "knowblin.png", "skill": "Teaching complex concepts in simple ways." }
+{ "name": "Pictura", "description": "Creates masterpieces in minutes.", "age": 60, "image": "pictura.png", "skill": "Painting and drawing beautiful art." }
+{ "name": "Melodrake", "description": "Plays enchanting tunes.", "age": 110, "image": "melodrake.png", "skill": "Playing and composing mesmerizing music." }
+{ "name": "Circuitron", "description": "Solves all your tech issues.", "age": 35, "image": "circuitron.png", "skill": "Fixing computers and troubleshooting tech problems." }
+{ "name": "Cheeraptor", "description": "Boosts morale with roaring energy.", "age": 70, "image": "cheeraptor.png", "skill": "Motivating people to achieve their best." }
+{ "name": "SpeedGryph", "description": "Gets you where you need to go, fast!", "age": 150, "image": "speedgryph.png", "skill": "Providing fast and safe transportation." }
+{ "name": "Whisperer", "description": "Listens and gives wise advice.", "age": 300, "image": "whisperer.png", "skill": "Offering advice and emotional support." }
+{ "name": "Guardfang", "description": "Protects you from all harm.", "age": 220, "image": "guardfang.png", "skill": "Providing security and protection." }
+{ "name": "Jestergeist", "description": "Brings laughter and joy.", "age": 90, "image": "jestergeist.png", "skill": "Entertaining people with jokes and tricks." }
